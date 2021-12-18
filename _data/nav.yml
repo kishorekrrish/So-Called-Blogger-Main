@@ -10,14 +10,10 @@
 - title: Blog
   link: '/blog/'
 
-- title: Blogs
+- title: Topics
   dropdown:
-    - title: Salesforce
-      link: '/salesforce/'
-    - title: JavaScript
-      link: '/blog/'
-    - title: Heroku
-      link: '/blog/'
+    - title: Technology
+      link: 'https://tech.socalledblogger.com/'
   
 - title: Categories
   link: '/categories/'
