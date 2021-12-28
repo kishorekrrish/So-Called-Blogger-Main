@@ -7,23 +7,23 @@
 - title: Contact
   link: '/contact/'
   
-- title: Blog
-  link: '/blog/'
+# - title: Blog
+#   link: '/blog/'
 
 - title: Topics
   dropdown:
     - title: Technology
       link: 'https://tech.socalledblogger.com/'
   
-- title: Categories
-  link: '/categories/'
+# - title: Categories
+#   link: '/categories/'
 
-- title: Portfolio
-  dropdown:
-    - title: Testimonials
-      link: /testimonials/
-    - title: Item
-      link: /portfolio/
-    - title: Another Item
-      link: /portfolio/
+# - title: Portfolio
+#   dropdown:
+#     - title: Testimonials
+#       link: /testimonials/
+#     - title: Item
+#       link: /portfolio/
+#     - title: Another Item
+#       link: /portfolio/
 
