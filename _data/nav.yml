@@ -7,10 +7,10 @@
 - title: Contact
   link: '/contact/'
   
-# - title: Blog
-#   link: '/blog/'
+- title: Blog
+  link: '/blog/'
 
-- title: Topics
+- title: More
   dropdown:
     - title: Technology
       link: 'https://tech.socalledblogger.com/'
