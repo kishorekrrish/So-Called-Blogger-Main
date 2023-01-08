@@ -1,6 +1,6 @@
 ---
 title: "Optimizing Google AdSense for Your Blog: Tips and Tricks"
-image: /assets/images/blank.png
+image: /assets/images/adsense.png
 description: Advertising networks are a popular way for bloggers and website owners to monetize their content and generate revenue from their traffic. In this blog post, we'll take a detailed look at some popular ad networks and explore their **Features**, **Pricing**, and **Eligibility** requirements to help you choose the right ad network for your blog.
 author: blogger
 categories:

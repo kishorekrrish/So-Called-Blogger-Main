@@ -1,6 +1,6 @@
 ---
 title: "Comparing Popular Web Hosting Providers: Features, Prices, and More"
-image: /assets/images/blank.png
+image: /assets/images/web-hosting.png
 description: When it comes to choosing a web hosting provider for your website or blog, there are many options to consider, and it can be overwhelming to navigate the various features, pricing plans, and support options available. In this blog post, we'll take a detailed look at some popular web hosting services and explore their features, pricing, and support options to help you choose the right web host for your needs.
 author: blogger
 categories:

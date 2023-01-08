@@ -1,6 +1,6 @@
 ---
 title: "Choosing the Best Blogging Platform for Your Needs: A Comparison of Popular Options"
-image: /assets/images/blank.png
+image: /assets/images/bloggin-platforms.png
 description: Blogging platforms are the software that powers your blog and manages your content. There are many different blogging platforms available, each with its own set of features and benefits. In this blog post, we'll take a deep dive into some of the most popular blogging platforms, and offer some tips to help you choose the best platform for your needs. Wordpress, blogger, medium, wix etc.
 author: blogger
 categories:

@@ -1,6 +1,6 @@
 ---
 title: "Writing Your First Blog Post: A Guide for Beginners"
-image: /assets/images/blank.png
+image: /assets/images/my-first-blog.png
 description: Writing your first blog post can be a daunting task, especially if you're new to blogging. However, with a bit of planning and practice, you can write a great blog post that engages and informs your readers. In this blog post, we'll take a deep dive into the process of writing your first blog post, and offer some tips and best practices to help you get started.
 author: blogger
 categories:

@@ -76,14 +76,18 @@
     />
 
     {% if site.analytics %}
-
     <!-- Google Analytics code. <head> tag is the right place for analytics code as directed by Google. This is unofficial light version which loads blazing fast! Implemented for faster page load.  -->
-    {% include analytics-lite.html %} {% endif %} {% if site.enable-mathjax %}
+      {% include analytics.html %} 
+    {% endif %} 
+    
+    {% if site.enable-mathjax %}
     <script
       async
       src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML"
     ></script>
-    {% endif %} {% if site.enable-chartjs %}
+    {% endif %} 
+    
+    {% if site.enable-chartjs %}
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
     {% endif %}
     <noscript>

@@ -1,6 +1,6 @@
 ---
 title: "Promoting Your Blog: Strategies for Beginners"
-image: /assets/images/blank.png
+image: /assets/images/promote-blog.png
 description: Promoting your blog is an important part of building and growing your online presence. By promoting your blog, you can increase its visibility, reach, and engagement, and attract and retain a loyal audience. In this blog post, we'll take a deep dive into the process of promoting your blog, and offer some tips and best practices to help you get started.
 author: blogger
 categories:
