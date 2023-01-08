@@ -10,6 +10,9 @@
 - title: Blog
   link: '/blog/'
 
+- title: Search
+  link: '/search/'
+
 # - title: More
 #   dropdown:
 #     - title: Technology
