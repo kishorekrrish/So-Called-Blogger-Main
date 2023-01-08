@@ -10,10 +10,10 @@
 - title: Blog
   link: '/blog/'
 
-- title: More
-  dropdown:
-    - title: Technology
-      link: 'https://tech.socalledblogger.com/'
+# - title: More
+#   dropdown:
+#     - title: Technology
+#       link: 'https://tech.socalledblogger.com/'
   
 # - title: Categories
 #   link: '/categories/'

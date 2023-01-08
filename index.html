@@ -16,21 +16,24 @@ You can edit them there.
 
 <hr>
 
-{% include services.html %}
+{% if site.data.services %}
+    {% include services.html %}
+{% endif %}
 
 <hr>
 
 {% include testimonial.html %}
 
 <hr>
-
-{% include clients.html %}
+{% if site.data.clients %}
+    {% include clients.html %}
+{% endif %}
 
 <hr>
 
 {% include latest-posts.html %}
 
 <hr>
-{% include cta.html %}
+<!-- {% include cta.html %} -->
 
 

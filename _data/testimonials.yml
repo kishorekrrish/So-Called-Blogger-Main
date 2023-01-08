@@ -1,8 +1,16 @@
-- name: Jane Doe
-  comment: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit!
-  image: /assets/images/rowan-chestnut-175871-unsplash.jpg
+- name: Lois Kelly
+  comment: A blog is only as interesting as the interest shown in others.
+  #image: /assets/images/rowan-chestnut-175871-unsplash.jpg
   linkedin: '#'
   
-- name: John Doe
-  comment: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga distinctio quod velit non ut est, vel doloribus officia eius natus.
-  image: /assets/images/brooke-cagle-274465-unsplash.jpg
+- name: Danny Iny
+  comment: Blogging is like having an ongoing conversation with friends, only the friends are the world.
+  #image: /assets/images/brooke-cagle-274465-unsplash.jpg
+
+- name: Rebecca Lieb
+  comment: Content is the atomic particle of all digital marketing.
+  #image: /assets/images/brooke-cagle-274465-unsplash.jpg
+
+- name: Neil Patel
+  comment: Quality content is the foundation of any successful marketing campaign. It’s not about the quantity of content, but the quality that truly matters.
+  #image: /assets/images/brooke-cagle-274465-unsplash.jpg
