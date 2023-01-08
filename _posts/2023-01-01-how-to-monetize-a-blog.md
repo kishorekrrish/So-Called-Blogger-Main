@@ -1,5 +1,5 @@
 ---
-title: How to monetize a blog
+title: "Monetizing Your Blog: A Beginner's Guide to Earning Money Online"
 image: /assets/images/monetize-a-blog.png
 description: Monetizing your blog is an important step in building a successful online business. By monetizing your blog, you can generate revenue from your content and turn your passion into a sustainable source of income. In this blog post, we'll take a look at some of the ways you can monetize your blog, and offer some tips to help beginners get started.
 author: blogger

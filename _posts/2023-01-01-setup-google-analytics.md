@@ -1,5 +1,5 @@
 ---
-title: Step by Step guide to setup Google analytics for your blog
+title: "Setting Up Google Analytics for Your Blog: A Step-by-Step Guide"
 image: /assets/images/blank.png
 description: Google Analytics is a powerful tool that allows bloggers and website owners to track the performance of their website and get insights into their audience and traffic. Setting up Google Analytics for your blog is a simple process that can provide valuable insights and help you optimize your website for better performance. In this blog post, we'll take a detailed look at how you can set up Google Analytics for your blog, with Step-by-Step instructions and images to guide you along the way.
 author: blogger

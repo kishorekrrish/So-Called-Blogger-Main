@@ -1,5 +1,5 @@
 ---
-title: Design your blog
+title: "Designing Your Blog: Tips and Tricks for Beginners"
 image: /assets/images/blank.png
 description: Designing your blog is an important step in the process of creating a successful and engaging online presence. A well-designed blog can help establish your identity and brand, showcase your content, and attract and retain readers. In this blog post, we'll take a deep dive into the process of designing your blog, and offer some tips and best practices to help you create a beautiful and effective blog.
 author: blogger

@@ -1,5 +1,5 @@
 ---
-title: Deep dive into WordPress
+title: "WordPress for Beginners: A Comprehensive Guide"
 image: /assets/images/blank.png
 description: WordPress is a popular and powerful blogging and content management system that is used by millions of websites and blogs around the world. It is user-friendly, flexible, and feature-rich, and offers a wide range of tools and options for creating and managing a blog. In this blog post, we'll take a detailed look at WordPress and explore some of the key features and benefits of using it for your blog.
 author: blogger

@@ -1,5 +1,5 @@
 ---
-title: How to create a blog
+title: "The Ultimate Guide to Creating a Blog for Beginners: A Step-by-Step Guide"
 image: /assets/images/how-to-start-a-blog.png
 description: Starting a blog can be a fun and rewarding way to share your thoughts, ideas, and experiences with the world. Whether you're an aspiring writer, an expert in your field, or just looking for a creative outlet, a blog can be a great platform for expressing yourself and connecting with others.
 author: blogger

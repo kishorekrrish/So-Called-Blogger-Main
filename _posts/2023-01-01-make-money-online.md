@@ -1,5 +1,5 @@
 ---
-title: Ways to make Money online
+title: "A Beginner's Guide to Earning Money Online"
 image: /assets/images/make-money-online.png
 description: Earning money online has become a popular way for people to supplement their income or even replace their full-time jobs. In this blog post, we’ll take a look at some of the ways you can earn money online, and offer some tips to help you get started.
 author: blogger
