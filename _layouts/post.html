@@ -10,7 +10,10 @@ This layout is used for posts. Changing anything here will affect all posts(not 
   <main>
     <header class="position-relative text-center rev">
       <div class="header-image" style="background-image: url({{page.image | relative_url}})"></div>
-      <h1 class="post-title position-absolute">{{page.title}}</h1>
+      {% if page.showheader != false %}
+              <!-- Header is conditionally displayed baded on showHeader param -->
+              <h1 class="post-title position-absolute">{{page.title}}</h1>
+      {% endif %}
     </header>
     <div class="container">
       <div class="blog-content pd">
