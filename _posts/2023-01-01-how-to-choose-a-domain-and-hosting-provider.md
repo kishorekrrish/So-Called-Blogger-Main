@@ -21,17 +21,17 @@ A good hosting provider is reliable, fast, and secure. It is important to choose
 
 Choosing a domain name is an important step in the process of setting up your blog. Here are some tips to help you choose a good domain name:
 
-1. Keep it simple and easy to remember: Choose a domain name that is easy to remember and easy to spell. Avoid using numbers, hyphens, or special characters, as these can make your domain name harder to remember and spell.
+1. **Keep it simple and easy to remember**: Choose a domain name that is easy to remember and easy to spell. Avoid using numbers, hyphens, or special characters, as these can make your domain name harder to remember and spell.
 
-2. Make it memorable: Choose a domain name that is unique and memorable. A memorable domain name is more likely to stick in the minds of your readers and potential customers.
+2. **Make it memorable**: Choose a domain name that is unique and memorable. A memorable domain name is more likely to stick in the minds of your readers and potential customers.
 
-3. Reflect your brand or content: Choose a domain name that reflects your brand or content. A domain name that aligns with your brand or niche can help establish your identity and authority in your field.
+3. **Reflect your brand or content**: Choose a domain name that reflects your brand or content. A domain name that aligns with your brand or niche can help establish your identity and authority in your field.
 
-4. Check availability: Before you register your domain name, it's important to check its availability to make sure it is not already taken. You can use a domain name checker tool to check the availability of your domain name.
+4. **Check availability**: Before you register your domain name, it's important to check its availability to make sure it is not already taken. You can use a domain name checker tool to check the availability of your domain name.
 
-5. Consider your extension: Your domain name extension, or top-level domain (TLD), is the part of your domain name that comes after the dot. Some common TLDs include .com, .net, and .org. It's important to consider the TLD of your domain name, as it can impact the perceived credibility and authority of your blog.
+5. **Consider your extension**: Your domain name extension, or top-level domain (TLD), is the part of your domain name that comes after the dot. Some common TLDs include .com, .net, and .org. It's important to consider the TLD of your domain name, as it can impact the perceived credibility and authority of your blog.
 
-6. Protect your brand: If you are building a brand or business, it's important to protect your brand by registering multiple variations of your domain name. This can include variations of your brand name with different TLDs, or common misspellings of your domain name. By registering these variations, you can prevent others from using them and protect your brand from cybersquatters.
+6. **Protect your brand**: If you are building a brand or business, it's important to protect your brand by registering multiple variations of your domain name. This can include variations of your brand name with different TLDs, or common misspellings of your domain name. By registering these variations, you can prevent others from using them and protect your brand from cybersquatters.
 
 ## How to choose a hosting provider
 
