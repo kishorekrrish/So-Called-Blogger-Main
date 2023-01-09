@@ -1,6 +1,6 @@
 ---
 title: "Affiliate Marketing for Bloggers: A Step-by-Step Guide to Monetizing Your Blog"
-image: /assets/images/web-hosting.png
+image: /assets/images/affliate-marketing.png
 description: In this comprehensive guide, we'll provide you with a step-by-step guide to affiliate marketing and how you can use it to earn money from your blog.
 author: blogger
 categories:
