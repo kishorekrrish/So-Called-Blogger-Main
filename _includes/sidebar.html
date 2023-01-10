@@ -3,8 +3,8 @@
       <h4 class="widget-title">Newsletter</h4>
       <!-- Begin MailChimp Signup Form -->
       <div id="mc_embed_signup">
-        <form action="" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
-          class="validate" target="_blank" novalidate="">
+        <form action="{{site.mailchimp-newsletter-action}}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
+          class="validate" target="_blank" novalidate>
           <div id="mc_embed_signup_scroll">
             <div class="form-group">
               <label for="mce-EMAIL">Subscribe here to get our latest updates</label>
@@ -21,24 +21,38 @@
 
     <hr>
 
-    <!-- <div class="banner">
+    <div class="banner">
         {% for item in site.data.banner %}
-            {% if !item.sticky %}
-            <div>
-                {{item.display}}
-            </div>
-            <hr>
+            {% if item.static == true and item.type == 'image' %}
+              <div>
+                  {{item.display}}
+              </div>
+              <hr>
+            {% endif %}
+
+            {% if item.static == true and item.type == 'html' %}
+              <div>
+                {% include {{item.display}} %}
+              </div>
+              <hr>
             {% endif %}
         {% endfor %}
     </div>
     <div class="banner"  style="position: sticky; top:11vh;">
         {% for item in site.data.banner %}
-            {% if item.sticky %}
-            <div>
-                {{item.display}}
-            </div>
-            <hr>
+            {% if item.sticky == true and item.type == 'image' %}
+              <div>
+                  {{item.display}}
+              </div>
+              <hr>
+            {% endif %}
+
+            {% if item.sticky == true and item.type == 'html' %}
+              <div>
+                {% include {{item.display}} %}
+              </div>
+              <hr>
             {% endif %}
         {% endfor %}
-    </div> -->
+    </div>
   </div>
