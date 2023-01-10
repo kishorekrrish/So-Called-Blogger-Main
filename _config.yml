@@ -27,7 +27,7 @@ author:
 markdown: kramdown
 
 # Newsletter in blog
-mailchimp-newsletter-action: "https://socalledblogger.us21.list-manage.com/subscribe/post?u=cbf02d01eac5dd9f32514ac20&amp;id=faefa54dfc&amp;f_id=004dcde1f0"
+mailchimp-newsletter-action: https://socalledblogger.us21.list-manage.com/subscribe/post?u=cbf02d01eac5dd9f32514ac20&amp;id=faefa54dfc&amp;f_id=004dcde1f0
 
 # Mathjax setting
 enable-mathjax: yes
