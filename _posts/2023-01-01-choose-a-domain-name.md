@@ -1,6 +1,6 @@
 ---
 title: "Choosing a Domain Name for Your Blog: Tips and Best Practices"
-image: /assets/images/blank.png
+image: /assets/images/choose-domain-name.png
 description: Choosing a domain name is an important step in establishing your online presence and building a successful website or blog. A domain name is a unique address that identifies your website on the internet, and it is used to access your site through a web browser. In this blog post, we'll take a detailed look at choosing a domain name and explore some of the key things you need to consider when selecting a domain name for your website or blog.
 author: blogger
 categories:

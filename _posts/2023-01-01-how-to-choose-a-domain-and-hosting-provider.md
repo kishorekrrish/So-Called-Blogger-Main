@@ -1,6 +1,6 @@
 ---
 title: "Picking the Perfect Domain Name and Web Hosting Provider for Your Blog"
-image: /assets/images/blank.png
+image: /assets/images/domain-name.png
 description: Choosing a domain name and hosting provider is an important decision that can have a big impact on the success and viability of your blog. A domain name is the web address that users type into their browser to access your blog, and a hosting provider is the company that stores and manages your blog's files and data. In this blog post, we'll take a deep dive into the process of choosing a domain name and hosting provider, and offer some tips to help you make the best decision for your needs.
 author: blogger
 categories:
