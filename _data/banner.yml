@@ -12,8 +12,8 @@
 #   sticky: true
 #   type: image
 
-# - name: Sticky Banner 2
-#   display: 'ad1.html'
-#   sticky: true
-#   type: html
+- name: Sticky Banner 2
+  display: 'ad1.html'
+  sticky: true
+  type: html
 
